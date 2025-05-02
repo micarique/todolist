@@ -49,7 +49,7 @@ export default function TaskForm({ taskToEdit, onAdd, onEdit }: Props) {
         className="w-full border p-2 rounded"
       />
       <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded">
-        {taskToEdit ? "Editar" : "Adicionar"}
+        {taskToEdit ? "Editar" : "Adicionar tarefa"}
       </button>
     </form>
   );
