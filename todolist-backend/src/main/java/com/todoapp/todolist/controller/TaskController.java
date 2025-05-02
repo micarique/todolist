@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/tasks")
-@CrossOrigin(origins = "*")
+
 public class TaskController {
 
     private final TaskService service;
