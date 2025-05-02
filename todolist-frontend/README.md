@@ -66,5 +66,6 @@ npm run dev
 - Estado controlado via `useState`
 - Separação clara entre lógica e UI
 
+
 ---
 
