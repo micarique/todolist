@@ -68,6 +68,3 @@ npm run dev
 
 ---
 
-## ✨ Resultado Visual
-
-A aplicação transmite profissionalismo e atenção aos detalhes — ideal para ser mostrada em portfólios e entrevistas técnicas.
